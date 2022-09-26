@@ -1,2 +1,2 @@
 # Serverless-Boiler-Template
-A Node Boiler-Template for Serverless
+A NodeJs Boiler-Template for Serverless Application
